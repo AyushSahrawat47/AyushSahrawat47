@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Ayush Sahrawat</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
-<img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhvcXE2dHoyNGU0NmoxejBwbWJkcGpncHphZXZ4dTJlcjJtczlmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dPbkqUb2p5XTvIXLx/giphy.gif"/>
+<img align="right" alt="badmosh" width="400" src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhvcXE2dHoyNGU0NmoxejBwbWJkcGpncHphZXZ4dTJlcjJtczlmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dPbkqUb2p5XTvIXLx/giphy.gif"/>
 
 - 🔭 I’m currently working on **ApniDukaan**
 
