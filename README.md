@@ -1,6 +1,10 @@
+<div style="text-align: center;">
+    <img src="./anime.gif" style="width: 100%; height: 300px; object-fit: cover;">
+</div>
 
 <h1 align="center">Hi 👋, I'm Ayush Sahrawat</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
+<img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhvcXE2dHoyNGU0NmoxejBwbWJkcGpncHphZXZ4dTJlcjJtczlmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dPbkqUb2p5XTvIXLx/giphy.gif"/>
 
 - 🔭 I’m currently working on **ApniDukaan**
 
@@ -9,6 +13,8 @@
 - 📫 How to reach me **ayushsahrawat47@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 <a href="https://linkedin.com/in/ayush sahrawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush sahrawat" height="30" width="40" /></a>
 </p>
